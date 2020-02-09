@@ -1,0 +1,14 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="tkpc" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Persist Security Info=True;Password=18deec12dafdb178db16d993a0d6970116de1ff760b8b2b795afbc862f9f82c3;Username=prnonoxpzhzqjp;Database=d4n80sith9p9lq;Host=ec2-184-73-199-189.compute-1.amazonaws.com;SSL Mode=Require;Trust Server Certificate=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;Npgsql&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Persist Security Info=True;Password=18deec12dafdb178db16d993a0d6970116de1ff760b8b2b795afbc862f9f82c3;Username=prnonoxpzhzqjp;Database=d4n80sith9p9lq;Host=ec2-184-73-199-189.compute-1.amazonaws.com;SSL Mode=Require;Trust Server Certificate=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
